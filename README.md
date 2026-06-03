@@ -1,7 +1,7 @@
 # Affirm-seq
 
 <p align="center">
-  <img src="Fig.jpg" alt="Affirm-seq overview" width="900">
+  <img src="Fig.jpg" alt="Affirm-seq overview" width="400">
 </p>
 
 Single-cell RNA sequencing (scRNA-seq) has greatly improved our understanding of cellular heterogeneity, but many existing methods remain limited by cell size, rare-cell input, and multimodal integration. Affirm-seq is an imaging-integrated scRNA-seq platform based on affinity ligand-functionalized spatial barcoded arrays. It enables single-cell capture, in situ imaging, and deterministic RNA barcoding on ordered spots with coordinate barcodes.
